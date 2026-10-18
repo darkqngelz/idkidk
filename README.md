@@ -40,11 +40,11 @@
 </p>
 
 <p align="center">
-  $\small\color{grey}\text{ "C+H freely! .".}$
+  $\small\color{pink}\text{ "C+H freely! .".}$
 </p>
 
 
-<p align="center">$\small\color{grey}\text{"I'm mostly busy so I probably won't be seen much anymore. heres me though ! "}$
+<p align="center">$\small\color{pink}\text{"I'm mostly busy so I probably won't be seen much anymore. heres me though ! "}$
 </p>
 
 <p align="right">
