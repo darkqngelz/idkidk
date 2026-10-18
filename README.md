@@ -14,7 +14,7 @@
 　<p align="center">$\small\color{pink}\text{"   he/him   ! "}$𓈒
 　
 </p>
-  <p align="center">$\small\color{white}\text{"ৎ୭　busy unless its the weekend ok. ! "}$
+  <p align="center">$\small\color{white}\text{"ৎ୭　busy unless its the weekend ok. (creds to lavendergalatic on tumblr ! "}$
 </p>
 
   <p align="center">$\small\color{pink}\text{" c+h freely  "}$𓈒 𓈒
