@@ -33,11 +33,11 @@
 </p>
 
 
-<p align="center">$\small\color{grey}\text{"Currently Online. "}$
+<p align="center">$\small\color{grey}\text{"I'm mostly busy so I probably won't be seen much anymore. "}$
 </p>
 
 <p align="center">
   <img src="My oc.png" width="300" alt="Gothic Potrait"/>
 </p>
-
+hihi me here being busy
 
