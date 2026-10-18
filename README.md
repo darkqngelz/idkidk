@@ -12,10 +12,10 @@
  <p align="center">$\small\color{pink}\text{ . qngel or zany  . }$
 </p>
 
-　<p align="center">$\small\color{cyan}\text{"   he/him   ! "}$𓈒
+　<p align="center">$\small\color{pink}\text{"   he/him   ! "}$𓈒
 　
 </p>
-  <p align="center">$\small\color{purple}\text{"ৎ୭　busy unless its the weekend ok. ! "}$
+  <p align="center">$\small\color{white}\text{"ৎ୭　busy unless its the weekend ok. ! "}$
 </p>
 
   <p align="center">$\small\color{pink}\text{" c+h freely  "}$𓈒 𓈒
