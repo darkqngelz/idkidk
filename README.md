@@ -7,7 +7,7 @@
 
 <p align="center">$\small\color{pink}\text{"𓈒⠀𓂃⠀⠀˖⠀𓇬⠀˖⠀⠀𓂃⠀𓈒! "}$
 </p>
- <p align="center">$\small\color{red}\text{ z ⤷   𓈒  ₒᵣ . qngel  . }$
+ <p align="center">$\small\color{pink}\text{ . qngel or zany  . }$
 </p>
 
 　<p align="center">$\small\color{darkred}\text{"   he/him   ! "}$𓈒
