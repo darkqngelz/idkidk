@@ -27,8 +27,9 @@
 
 <p align="left">
   <img src="divider heart.png" width="200" alt="Gothic Potrait"/>  <p align="right">
-  <img src="ruikasa tumblr 4.webp" width="300" alt="Gothic Potrait"/>
-</p>
+  <img src="ruikasa tumblr 4.webp" width="300" alt="Gothic Potrait"/> 
+</p> <p align="right">
+  <img src="divider heart.png" width="200" alt="Gothic Potrait"/>
 
 
 
@@ -53,7 +54,7 @@
   <img src="たーき🦈 on X.jpg" width="500" alt="Gothic Potrait"/>
 </p>
 <p align="center">
-  <img src="divider heart.png" width="500" alt="Gothic Potrait"/>
+  <img src="divider heart.png" width="200" alt="Gothic Potrait"/>
 
 wipwip ok not finished yet
 
