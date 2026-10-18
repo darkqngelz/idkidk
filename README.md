@@ -6,7 +6,7 @@
   
 
 <p align="center">
-  <img src="divider heart.png" width="500" alt="Gothic Potrait"/>
+  <img src="divider heart.png" width="200" alt="Gothic Potrait"/>
 </p>
 </p>
  <p align="center">$\small\color{pink}\text{ . qngel or zany  . }$
