@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="ruisaka tumblr.png" width="500" alt="Gothic Potrait"/>
+  <img src="ruikasa tumblr.png" width="500" alt="Gothic Potrait"/>
 </p>
 
 <p align="center">
