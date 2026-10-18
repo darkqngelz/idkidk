@@ -5,7 +5,10 @@
 <p align="center">$\small\color{pink}\text{"𓈒⠀𓂃⠀⠀˖⠀𓇬⠀˖⠀⠀𓂃⠀𓈒! "}$
 </p
   
-<p align="center">$\small\color{pink}\text{"@user . # prn , prn : mbti ! "}$
+
+<p align="center">$\small\color{pink}\text{"𓈒⠀𓂃⠀⠀˖⠀𓇬⠀˖⠀⠀𓂃⠀𓈒! "}$
+</p>
+
 </p>
            
 </p>
