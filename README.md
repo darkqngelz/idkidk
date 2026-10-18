@@ -26,7 +26,7 @@
 </p>
 
 <p align="left">
-  <img src="divider heart.png" width="200" alt="Gothic Potrait"/>
+  <img src="divider heart.png" width="200" alt="Gothic Potrait"/>  hihihi 
 
 
 
