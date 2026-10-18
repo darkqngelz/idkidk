@@ -39,5 +39,4 @@
 <p align="center">
   <img src="My occ hi.png" width="300" alt="Gothic Potrait"/>
 </p>
-heres me 
-
+busy
