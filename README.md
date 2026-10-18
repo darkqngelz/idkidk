@@ -11,7 +11,6 @@
 </p>
  <p align="center">$\small\color{pink}\text{ . qngel or zany  . }$
 </p>
-
 　<p align="left">$\small\color{pink}\text{"   he/him   ! "}$𓈒
 　
 </p>
@@ -26,7 +25,7 @@
   <img src="ruikasa tumblr 2.webp" width="300" alt="Gothic Potrait"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="divider heart.png" width="200" alt="Gothic Potrait"/>
 
 
