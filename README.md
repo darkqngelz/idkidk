@@ -13,12 +13,11 @@
 　<p align="center">$\small\color{darkred}\text{"   he/him   ! "}$𓈒
 　
 </p>
-  <p align="center">$\small\color{darkred}\text{"ৎ୭　offline mostly/bus ! "}$
+  <p align="center">$\small\color{purple}\text{"ৎ୭　busy unless its the weekend ok. ! "}$
 </p>
 
-  <p align="center">$\small\color{red}\text{" c+h freely  "}$𓈒 𓈒
+  <p align="center">$\small\color{pink}\text{" c+h freely  "}$𓈒 𓈒
 
-<p align="center">$\small\color{red}\text{"blocking freely don't do stupid shi ! "}$
 </p>
 
 <p align="center">
