@@ -51,7 +51,7 @@
 </p>
 
 <p align="center">
-  <img src="gay_jump_scare_rui_and_tsukasa-removebg-preview.png" width="300" alt="Gothic Potrait"/>
+  <img src="たーき🦈 on X.jpg" width="300" alt="Gothic Potrait"/>
 </p>
 <p align="center">
   <img src="divider heart.png" width="500" alt="Gothic Potrait"/>
