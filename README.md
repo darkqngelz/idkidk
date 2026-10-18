@@ -37,6 +37,6 @@
 </p>
 
 <p align="center">
-  <img src="My occ hi.png" width="300" alt="Gothic Potrait"/>
+  <img src="me.png" width="300" alt="Gothic Potrait"/>
 </p>
 busy
