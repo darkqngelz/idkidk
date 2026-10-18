@@ -51,9 +51,9 @@
 </p>
 
 <p align="center">
-  <img src="たーき🦈 on X.jpg" width="500" alt="Gothic Potrait"/>
+  <img src="たーき🦈 on X.jpg" width="400" alt="Gothic Potrait"/>
 </p>
 <p align="center">
-  <img src="divider heart.png" width="500" alt="Gothic Potrait"/>
+  <img src="divider heart.png" width="400" alt="Gothic Potrait"/>
 
 
