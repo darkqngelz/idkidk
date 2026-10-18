@@ -50,6 +50,8 @@
 <p align="right">
   <img src="ruikasa tumblr 4.webp" width="300" alt="Gothic Potrait"/>
 </p>
+<p align="right">
+  <img src="divider heart.png" width="200" alt="Gothic Potrait"/>
 
 
 
