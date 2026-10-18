@@ -5,10 +5,11 @@
 <p align="center">$\small\color{pink}\text{"𓈒⠀𓂃⠀⠀˖⠀𓇬⠀˖⠀⠀𓂃⠀𓈒! "}$
 </p
   
-<p align="center">
-  <img src="𝑪𝒉𝒂𝒓𝒂𝒄𝒕𝒆𝒓𝒔__𝑭𝒂𝒏𝒅𝒐𝒎______sunday____hsr____honkaistarrail______сандей____хср____хонкайстаррейл_____author_in_tg___nanachiks_-removebg-preview.png" width="500" alt="Gothic Potrait"/>
+<p align="center">$\small\color{pink}\text{"ㅤ  ׅ    ۫   𐂯ᩙ᩠𓏼  name  ׄ   ♡゙    ̹ ̜ㅤ
+.           𓎟 𓎟 𓎟 𓎟 𓎟 𓎟
+         info   .   0_0 ♡   .   mbti e
+           e   prns  ノ  prns "}$
 </p>
-
 
 <p align="center">
   <img src="stars..webp" width="500" alt="Gothic Potrait"/>
