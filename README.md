@@ -5,12 +5,12 @@
 
   
 
-<p align="center">$\small\color{pink}\text{"𓈒⠀𓂃⠀⠀˖⠀𓇬⠀˖⠀⠀𓂃⠀𓈒! "}$
+<p align="center">$\small\color{white}\text{"𓈒⠀𓂃⠀⠀˖⠀𓇬⠀˖⠀⠀𓂃⠀𓈒! "}$
 </p>
  <p align="center">$\small\color{pink}\text{ . qngel or zany  . }$
 </p>
 
-　<p align="center">$\small\color{darkred}\text{"   he/him   ! "}$𓈒
+　<p align="center">$\small\color{cyan}\text{"   he/him   ! "}$𓈒
 　
 </p>
   <p align="center">$\small\color{purple}\text{"ৎ୭　busy unless its the weekend ok. ! "}$
@@ -24,7 +24,7 @@
   <img src="stars..webp" width="500" alt="Gothic Potrait"/>
 </p>
 
-<p align="center">$\small\color{pink}\text{"𓈒⠀𓂃⠀⠀˖⠀𓇬⠀˖⠀⠀𓂃⠀𓈒! "}$
+<p align="center">$\small\color{white}\text{"𓈒⠀𓂃⠀⠀˖⠀𓇬⠀˖⠀⠀𓂃⠀𓈒! "}$
 </p>
 
 
