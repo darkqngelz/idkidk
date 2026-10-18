@@ -26,8 +26,8 @@
   <img src="stars..webp" width="500" alt="Gothic Potrait"/>
 </p>
 
-<p align="center">$\small\color{purple}\text{"──────── "}$
-</p>
+<p align="center">
+  <img src="divider heart.png" width="200" alt="Gothic Potrait"/>
 
 
 
