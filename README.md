@@ -2,8 +2,7 @@
 <p align="center">
   <img src="ruikasa tumblr.png" width="500" alt="Gothic Potrait"/>
 </p>
-<p align="center">$\small\color{pink}\text{"𓈒⠀𓂃⠀⠀˖⠀𓇬⠀˖⠀⠀𓂃⠀𓈒! "}$
-</p
+
   
 
 <p align="center">$\small\color{pink}\text{"𓈒⠀𓂃⠀⠀˖⠀𓇬⠀˖⠀⠀𓂃⠀𓈒! "}$
@@ -20,10 +19,7 @@
 <p align="center">$\small\color{pink}\text{"𓈒⠀𓂃⠀⠀˖⠀𓇬⠀˖⠀⠀𓂃⠀𓈒! "}$
 </p>
 
-
-  ﹒    @user  ﹕☆
-ㅤ         ﹟    prn  ·  prn ㅤ࣭ ㅤׂ   
-                   :   ᯓ mbti !  
+ 
 
 
 ⠀⠀
