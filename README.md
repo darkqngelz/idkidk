@@ -49,11 +49,11 @@
 <p align="center">$\small\color{pink}\text{"I'm mostly busy so I probably won't be seen much anymore. ! "}$
 </p>
 
-<p align="right">
-  <img src="たーき🦈 on X.jpg" width="300" alt="Gothic Potrait"/>
+<p align="center">
+  <img src="たーき🦈 on X.jpg" width="500" alt="Gothic Potrait"/>
 </p>
-<p align="right">
-  <img src="divider heart.png" width="200" alt="Gothic Potrait"/>
+<p align="center">
+  <img src="divider heart.png" width="500" alt="Gothic Potrait"/>
 
 wipwip ok not finished yet
 
