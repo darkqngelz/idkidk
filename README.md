@@ -5,7 +5,7 @@
 <p align="center">$\small\color{pink}\text{"𓈒⠀𓂃⠀⠀˖⠀𓇬⠀˖⠀⠀𓂃⠀𓈒! "}$
 </p
   
-<p align="center">$\small\color{pink}\text{"(name)"}$   
+<p align="center">$\small\color{pink}\text{"name"}$   
            
 </p>
 
