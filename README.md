@@ -5,7 +5,7 @@
 
   
 
-<p align="center">$\small\color{white}\text{"𓈒⠀𓂃⠀⠀˖⠀𓇬⠀˖⠀⠀𓂃⠀𓈒! "}$
+<p align="center">$\small\color{purple}\text{"──────── "}$
 </p>
  <p align="center">$\small\color{pink}\text{ . qngel or zany  . }$
 </p>
@@ -24,7 +24,7 @@
   <img src="stars..webp" width="500" alt="Gothic Potrait"/>
 </p>
 
-<p align="center">$\small\color{white}\text{"𓈒⠀𓂃⠀⠀˖⠀𓇬⠀˖⠀⠀𓂃⠀𓈒! "}$
+<p align="center">$\small\color{purple}\text{"──────── "}$
 </p>
 
 
