@@ -12,8 +12,7 @@
   <img src="stars..webp" width="500" alt="Gothic Potrait"/>
 </p>
 
-<p align="center">
-  <img src="sword..png" width="400" alt="Gothic Potrait"/>
+<p align="center">$\small\color{pink}\text{"𓈒⠀𓂃⠀⠀˖⠀𓇬⠀˖⠀⠀𓂃⠀𓈒! "}$
 </p>
 
 
