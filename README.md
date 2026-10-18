@@ -7,16 +7,16 @@
 
 <p align="center">$\small\color{pink}\text{"𓈒⠀𓂃⠀⠀˖⠀𓇬⠀˖⠀⠀𓂃⠀𓈒! "}$
 </p>
- <p align="center">$\small\color{red}\text{ z ⤷   𓈒  ₒᵣ . mourvix  ! }$
+ <p align="center">$\small\color{red}\text{ z ⤷   𓈒  ₒᵣ . qngel  . }$
 </p>
 
-　<p align="center">$\small\color{darkred}\text{" ౨᭪˳ oldi .   he/him/pup  ! "}$𓈒
-　 <p align="center">$\small\color{red}\text{"ৎ୭ ┈┈・ ✦ ・┈┈ "}$
+　<p align="center">$\small\color{darkred}\text{"   he/him   ! "}$𓈒
+　
 </p>
   <p align="center">$\small\color{darkred}\text{"ৎ୭　offline mostly/bus ! "}$
 </p>
 
-  <p align="center">$\small\color{red}\text{" fav ppl: v, s, z, m, l, ext.  "}$𓈒 𓈒
+  <p align="center">$\small\color{red}\text{" c+h freely  "}$𓈒 𓈒
 
 <p align="center">$\small\color{red}\text{"blocking freely don't do stupid shi ! "}$
 </p>
