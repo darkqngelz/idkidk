@@ -39,4 +39,6 @@
 <p align="center">
   <img src="me.png" width="300" alt="Gothic Potrait"/>
 </p>
-busy
+[![Views](https://github.com/brown9804/github-visitor-counter/raw/main/badge.svg)](https://github.com/brown9804/github-visitor-counter)).
+
+
