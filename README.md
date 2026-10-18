@@ -48,7 +48,7 @@
 <p align="center">$\small\color{grey}\text{"I'm mostly busy so I probably won't be seen much anymore. heres me though ! "}$
 </p>
 
-<p align="rightr">
+<p align="right">
   <img src="ruikasa tumblr 4.webp" width="300" alt="Gothic Potrait"/>
 </p>
 
