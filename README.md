@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img src="My oc.png" width="300" alt="Gothic Potrait"/>
+  <img src="My oc 2.png" width="300" alt="Gothic Potrait"/>
 </p>
 hihi me here being busy
 
