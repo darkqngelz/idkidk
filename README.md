@@ -5,12 +5,12 @@
 <p align="center">$\small\color{pink}\text{"𓈒⠀𓂃⠀⠀˖⠀𓇬⠀˖⠀⠀𓂃⠀𓈒! "}$
 </p
   
-<p align="center">$\small\color{pink}\text{"ㅤ  ׅ    ۫   𐂯ᩙ᩠𓏼  name  ׄ   ♡゙    ̹ ̜ㅤ
-.           𓎟 𓎟 𓎟 𓎟 𓎟 𓎟
-         info   .   0_0 ♡   .   mbti e
-           e   prns  ノ  prns "}$
+<p align="center">$\small\color{pink}\text{"  ८    (name)  !!   ꔫა 
+               sheㅤ ♡   her  !!"}$
 </p>
 
+                ८    (name)  !!   ꔫა 
+               sheㅤ ♡   her  !!    
 <p align="center">
   <img src="stars..webp" width="500" alt="Gothic Potrait"/>
 </p>
