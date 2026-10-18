@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">
-  <img src="ruikasa tumblr 3.webp" width="300" alt="Gothic Potrait"/>
+  <img src="ruikasa tumblr 4.webp" width="300" alt="Gothic Potrait"/>
 </p>
 
 
