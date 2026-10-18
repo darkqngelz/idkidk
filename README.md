@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="stars..webp" width="500" alt="Gothic Potrait"/>
+  <img src="ruikasa tumblr 2.webp" width="500" alt="Gothic Potrait"/>
 </p>
 
 <p align="center">
