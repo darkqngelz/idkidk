@@ -36,5 +36,8 @@
 <p align="center">$\small\color{grey}\text{"Currently Online. "}$
 </p>
 
+<p align="center">
+  <img src="my oc.png" width="300" alt="Gothic Potrait"/>
+</p>
 
 
