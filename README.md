@@ -5,8 +5,8 @@
 <p align="center">$\small\color{pink}\text{"𓈒⠀𓂃⠀⠀˖⠀𓇬⠀˖⠀⠀𓂃⠀𓈒! "}$
 </p
   
-<p align="center">$\small\color{pink}\text{"  ८    (name)  !!   ꔫა 
-               sheㅤ ♡   her  !!"}$
+<p align="center">$\small\color{pink}\text{"     (name)  !!   
+               !!"}$
 </p>
 
                 ८    (name)  !!   ꔫა 
