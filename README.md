@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  $\small\color{grey}\text{ "C+H. (Unless I'm with friends or something)! .".}$
+  $\small\color{grey}\text{ "C+H. is okay! .".}$
 </p>
 
 
