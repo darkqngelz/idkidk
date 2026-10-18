@@ -44,7 +44,7 @@
 </p>
 
 
-<p align="center">$\small\color{pink}\text{"I'm mostly busy so I probably won't be seen much anymore. heres me though ! "}$
+<p align="center">$\small\color{pink}\text{"I'm mostly busy so I probably won't be seen much anymore. ! "}$
 </p>
 
 <p align="right">
