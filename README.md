@@ -7,19 +7,7 @@
 
 <p align="center">$\small\color{pink}\text{"𓈒⠀𓂃⠀⠀˖⠀𓇬⠀˖⠀⠀𓂃⠀𓈒! "}$
 </p>
-
-</p>
-           
-</p>
-
-<p align="center">
-  <img src="stars..webp" width="500" alt="Gothic Potrait"/>
-</p>
-
-<p align="center">$\small\color{pink}\text{"𓈒⠀𓂃⠀⠀˖⠀𓇬⠀˖⠀⠀𓂃⠀𓈒! "}$
-</p>
-
-  <p align="center">$\small\color{red}\text{ z ⤷   𓈒  ₒᵣ . mourvix  ! }$
+ <p align="center">$\small\color{red}\text{ z ⤷   𓈒  ₒᵣ . mourvix  ! }$
 </p>
 
 　<p align="center">$\small\color{darkred}\text{" ౨᭪˳ oldi .   he/him/pup  ! "}$𓈒
@@ -32,6 +20,14 @@
 
 <p align="center">$\small\color{red}\text{"blocking freely don't do stupid shi ! "}$
 </p>
+
+<p align="center">
+  <img src="stars..webp" width="500" alt="Gothic Potrait"/>
+</p>
+
+<p align="center">$\small\color{pink}\text{"𓈒⠀𓂃⠀⠀˖⠀𓇬⠀˖⠀⠀𓂃⠀𓈒! "}$
+</p>
+
 
 
 ⠀⠀
