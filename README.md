@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  $\small\color{grey}\text{ "C+H. is okay! .".}$
+  $\small\color{grey}\text{ "C+H freely is okay! .".}$
 </p>
 
 
