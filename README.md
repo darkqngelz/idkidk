@@ -35,8 +35,8 @@
   <img src="divider heart.png" width="200" alt="Gothic Potrait"/>
 
 
-<p align="left">
-  <img src="heart.gif" width="300" alt="Gothic Potrait"/>
+<p align="center">
+  <img src="heart.gif" width="400" alt="Gothic Potrait"/>
 </p>
 ⠀⠀
 
