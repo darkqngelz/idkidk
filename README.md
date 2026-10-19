@@ -1,5 +1,8 @@
 
 <p align="center">
+  <img src="heart dividerr.png" width="300" alt="Gothic Potrait"/>
+
+<p align="center">
   <img src="ruikasa tumblr 3.webp" width="500" alt="Gothic Potrait"/>
 </p>
 
