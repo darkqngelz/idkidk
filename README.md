@@ -36,7 +36,7 @@
 
 
 <p align="center">
-  <img src="heart.gif" width="400" alt="Gothic Potrait"/>
+  <img src="heart.gif" width="500" alt="Gothic Potrait"/>
 </p>
 ⠀⠀
 
@@ -56,9 +56,10 @@
 </p>
 
 <p align="center">
-  <img src="たーき🦈 on X.jpg" width="400" alt="Gothic Potrait"/>
+  <img src="たーき🦈 on X.jpg" width="300" alt="Gothic Potrait"/>
 </p>
 <p align="center">
-  <img src="divider heart.png" width="400" alt="Gothic Potrait"/>
+  <img src="heart.gif" width="500" alt="Gothic Potrait"/>
+</p>
 
 
