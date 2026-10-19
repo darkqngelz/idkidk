@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-  <img src="ruikasa..png" width="300" alt="Gothic Potrait"/>
+  <img src="ruikasa..png" width="400" alt="Gothic Potrait"/>
 </p>
 <p align="center">
   <img src="heart.gif" width="500" alt="Gothic Potrait"/>
