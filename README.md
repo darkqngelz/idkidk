@@ -44,7 +44,7 @@
 
 <!-- CENTERED QUOTE -->
 <p align="center">
-  <i>"I may not be in some places I'm usually in because I'm in a different server ."</i>
+  <i>" thank you for 30+ followers ! ."</i>
 </p>
 
 <p align="center">
