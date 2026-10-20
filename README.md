@@ -20,7 +20,7 @@
   <p align="center">$\small\color{white}\text{"ৎ୭　busy unless its the weekend ok. (creds to lavendergalatic on tumblr ! "}$
 </p>
 
-  <p align="center">$\small\color{pink}\text{" c+h freely  "}$𓈒 𓈒
+  <p align="center">$\small\color{pink}\text{" friendly ! but please dont do anything in confusing or weird ways .  "}$𓈒 𓈒
 
 </p>
 
