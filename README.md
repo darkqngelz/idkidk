@@ -12,7 +12,7 @@
   <img src="divider heart.png" width="200" alt="Gothic Potrait"/>
 </p>
 </p>
- <p align="center">$\small\color{pink}\text{ . qngely  . }$
+ <p align="center">$\small\color{pink}\text{ . qngely  . made for ponytown }$
 </p>
 　<p align="center">$\small\color{pink}\text{"   he/him   ! "}$𓈒
 　
