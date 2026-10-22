@@ -35,12 +35,12 @@
 </p>
 
 <p align="left">
-  <img src="ruikasa tumblr 2.webp" width="300" alt="Gothic Potrait"/>
+  <img src="gloves.webp" width="300" alt="Gothic Potrait"/>
 </p>
 
 <p align="left">
   <img src="divider heart.png" width="200" alt="Gothic Potrait"/>  <p align="right">
-  <img src="ruikasa tumblr 4.webp" width="300" alt="Gothic Potrait"/> 
+  <img src="horse.webp" width="300" alt="Gothic Potrait"/> 
 </p> <p align="right">
   <img src="divider heart.png" width="200" alt="Gothic Potrait"/>
 
@@ -66,7 +66,7 @@
 </p>
 
 <p align="center">
-  <img src="ruikasa..png" width="400" alt="Gothic Potrait"/>
+  <img src="horse.webp" width="400" alt="Gothic Potrait"/>
 </p>
 <p align="center">
   <img src="heart.gif" width="500" alt="Gothic Potrait"/>
