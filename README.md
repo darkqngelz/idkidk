@@ -11,8 +11,10 @@
 <p align="center">
   <img src="angel (3).jpg" width="500" alt="Gothic Potrait"/>
 </p>
-</p>
-</p>
+
+<p align="center">
+  <img src="angel (2).jpg" width="500" alt="Gothic Potrait"/>
+  
  <p align="center">$\small\color{pink}\text{ . qngely  . made for ponytown }$
 </p>
 　<p align="center">$\small\color{pink}\text{"   he/him   ! "}$𓈒
