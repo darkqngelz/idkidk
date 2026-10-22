@@ -46,7 +46,7 @@
 
 
 <p align="center">
-  <img src="heart.gif" width="500" alt="Gothic Potrait"/>
+  <img src="sword..png" width="500" alt="Gothic Potrait"/>
 </p>
 ⠀⠀
 
@@ -66,10 +66,10 @@
 </p>
 
 <p align="center">
-  <img src="horse.webp" width="400" alt="Gothic Potrait"/>
+  <img src="shield.webp" width="400" alt="Gothic Potrait"/>
 </p>
 <p align="center">
-  <img src="heart.gif" width="500" alt="Gothic Potrait"/>
+  <img src="sword..png" width="500" alt="Gothic Potrait"/>
 </p>
 
 
