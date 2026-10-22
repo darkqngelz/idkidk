@@ -1,23 +1,23 @@
 
 <p align="center">
-  <img src="angel (4).png" width="600" alt="Gothic Potrait"/>
+  <img src="angel (4).png" width="900" alt="Gothic Potrait"/>
 
 <p align="center">
-  <img src="2.png" width="500" alt="Gothic Potrait"/>
+  <img src="2.png" width="800" alt="Gothic Potrait"/>
 </p>
 
   
 
 <p align="center">
-  <img src="angel (3).jpg" width="500" alt="Gothic Potrait"/>
+  <img src="angel (3).jpg" width="800" alt="Gothic Potrait"/>
 </p>
 
 <p align="center">
-  <img src="angel (2).png" width="500" alt="Gothic Potrait"/>
+  <img src="angel (2).png" width="800" alt="Gothic Potrait"/>
   <p align="center">
-  <img src="qngel.png" width="500" alt="Gothic Potrait"/>
+  <img src="qngel.png" width="800" alt="Gothic Potrait"/>
 <p align="center">
-  <img src="angel (4).png" width="600" alt="Gothic Potrait"/>
+  <img src="angel (4).png" width="900" alt="Gothic Potrait"/>
 <p align="center">
   
   <img src="door open.webp" width="500" alt="Gothic Potrait"/>
