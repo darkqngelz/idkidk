@@ -3,7 +3,7 @@
   <img src="angel (4).png" width="600" alt="Gothic Potrait"/>
 
 <p align="center">
-  <img src="angel (3).jpg" width="500" alt="Gothic Potrait"/>
+  <img src="2.png" width="500" alt="Gothic Potrait"/>
 </p>
 
   
