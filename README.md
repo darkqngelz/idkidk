@@ -16,9 +16,11 @@
   <img src="angel (2).png" width="500" alt="Gothic Potrait"/>
   <p align="center">
   <img src="qngel.png" width="500" alt="Gothic Potrait"/>
-</p>
-<img src="door open.webp" width="500" alt="Gothic Potrait"/>
-</p>
+<p align="center">
+  <img src="angel (4).png" width="600" alt="Gothic Potrait"/>
+<p align="center">
+  
+  <img src="door open.webp" width="500" alt="Gothic Potrait"/>
   
  <p align="center">$\small\color{pink}\text{ . qngely  . made for ponytown }$
 </p>
