@@ -50,7 +50,7 @@ textextext
 
 
 <p align="center">
-  <img src="sword..png" width="500" alt="Gothic Potrait"/>
+  <img src="divid apples.png" width="500" alt="Gothic Potrait"/>
 </p>
 ⠀⠀
 
