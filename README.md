@@ -3,7 +3,7 @@
   <img src="frame idk.png" width="900" alt="Gothic Potrait"/>
 
 
-  <img src="1 divid.png" width="700" alt="Gothic Potrait"/>
+  <img src="1 divid.png" width="900" alt="Gothic Potrait"/>
 </p>
 <p align="center">
   <img src="loyal divider.png" width="800" alt="Gothic Potrait"/>
@@ -53,10 +53,10 @@ textextext
 </p>
 
 <p align="left">
-  <img src="divider heart.png" width="200" alt="Gothic Potrait"/>  <p align="right">
+  <img src="divid apples.png" width="200" alt="Gothic Potrait"/>  <p align="right">
   <img src="3.png" width="300" alt="Gothic Potrait"/> 
 </p> <p align="right">
-  <img src="divider heart.png" width="200" alt="Gothic Potrait"/>
+  <img src="divid apples.png" width="200" alt="Gothic Potrait"/>
 
 
 <p align="center">
