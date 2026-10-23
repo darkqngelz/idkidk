@@ -29,7 +29,7 @@ textextext
   
   
  <p align="center">
-  <img src="crown.webp" width="500" alt="Gothic Potrait"/>
+  <img src="crown.webp" width="300" alt="Gothic Potrait"/>
 </p>
 
 
