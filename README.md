@@ -20,7 +20,7 @@
   <img src="angel (4).png" width="900" alt="Gothic Potrait"/>
 <p align="center">
   
-  <img src="lion.webp" width="500" alt="Gothic Potrait"/>
+  <img src="crown.webp" width="500" alt="Gothic Potrait"/>
   
  <p align="center">$\small\color{white}\text{ . qngely  . made for ponytown }$
 </p>
