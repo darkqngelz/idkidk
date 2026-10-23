@@ -39,7 +39,7 @@ textextext
 </p>
 
 <p align="left">
-  <img src="gloves.webp" width="300" alt="Gothic Potrait"/>
+  <img src="lion.webp" width="300" alt="Gothic Potrait"/>
 </p>
 
 <p align="left">
