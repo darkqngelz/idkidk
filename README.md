@@ -44,7 +44,7 @@ textextext
 
 <p align="left">
   <img src="divider heart.png" width="200" alt="Gothic Potrait"/>  <p align="right">
-  <img src="horse.webp" width="300" alt="Gothic Potrait"/> 
+  <img src="3.png" width="300" alt="Gothic Potrait"/> 
 </p> <p align="right">
   <img src="divider heart.png" width="200" alt="Gothic Potrait"/>
 
