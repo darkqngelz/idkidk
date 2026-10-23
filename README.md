@@ -21,7 +21,7 @@
   <img src="textext.png" width="800" alt="Gothic Potrait"/>
   
   
-textextext
+
 
  <p align="center">
   <img src="divid apples.png" width="500" alt="Gothic Potrait"/>
