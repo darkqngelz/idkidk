@@ -69,7 +69,7 @@
   <img src="shield.webp" width="400" alt="Gothic Potrait"/>
 </p>
 <p align="center">
-  <img src="sword..png" width="500" alt="Gothic Potrait"/>
+  <img src="frame 2.png" width="500" alt="Gothic Potrait"/>
 </p>
 <!-- markdownlint-disable MD033 MD041 -->
 
