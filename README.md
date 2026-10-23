@@ -3,7 +3,7 @@
   <img src="frame idk.png" width="900" alt="Gothic Potrait"/>
 
 <p align="center">
-  <img src="1 divid.png" width="800" alt="Gothic Potrait"/>
+  <img src="loyal divider.png" width="800" alt="Gothic Potrait"/>
 </p>
 
   
