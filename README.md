@@ -36,15 +36,7 @@
 <p align="center">
   <img src="1 divid.png" width="800" alt="Gothic Potrait"/>
   
- <p align="center">$\small\color{white}\text{ . qngely  . made for ponytown }$
-</p>
-　<p align="center">$\small\color{white}\text{"   he/him   ! "}$𓈒
-　
-</p>
-  <p align="center">$\small\color{white}\text{"ৎ୭　busy unless its the weekend.} $
-</p>
 
-  <p align="center">$\small\color{white}\text{" friendly ! but please dont do anything in confusing or weird ways .  "}$𓈒 𓈒
 
 <p align="center">
   <img src="2.webp" width="500" alt="Gothic Potrait"/>
@@ -70,18 +62,12 @@
 
 
 
-<!-- CENTERED QUOTE -->
-<p align="center">
-  <i>" thank you for 30+ followers ! ."</i>
-</p>
-
-<p align="center">
-  $\small\color{white}\text{ "C+H freely! .".}$
-</p>
 
 
-<p align="center">$\small\color{white}\text{"I'm mostly busy so I probably won't be seen much anymore. ! "}$
-</p>
+
+
+
+
 
 
 </p>
