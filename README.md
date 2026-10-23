@@ -3,17 +3,17 @@
   <img src="frame idk.png" width="900" alt="Gothic Potrait"/>
 
 <p align="center">
-  <img src="2.png" width="800" alt="Gothic Potrait"/>
+  <img src="1 divid.png" width="800" alt="Gothic Potrait"/>
 </p>
 
   
 
 <p align="center">
-  <img src="angel (3).jpg" width="800" alt="Gothic Potrait"/>
+  <img src="1.png" width="800" alt="Gothic Potrait"/>
 </p>
 
 <p align="center">
-  <img src="angel (2).png" width="800" alt="Gothic Potrait"/>
+  <img src="textext.png" width="800" alt="Gothic Potrait"/>
   <p align="center">
   <img src="qngel.png" width="800" alt="Gothic Potrait"/>
 <p align="center">
