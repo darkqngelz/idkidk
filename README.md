@@ -62,7 +62,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World;This+is+my+repo&height](https://git.io/typing-svg)
+
 
 
 
