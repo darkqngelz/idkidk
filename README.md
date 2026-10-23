@@ -1,16 +1,16 @@
 
 <p align="center">
   <img src="frame idk.png" width="900" alt="Gothic Potrait"/>
-<p align="center">
+
 
   <img src="1 divid.png" width="700" alt="Gothic Potrait"/>
 </p>
 <p align="center">
   <img src="loyal divider.png" width="800" alt="Gothic Potrait"/>
 
-</p>align="center">p>
-<img src="1 divid.png" width="700" alt="Gothic Potrait"/>
-</p>
+<p align="center">
+  <img src="1 divid.png" width="900" alt="Gothic Potrait"/>
+
   
 
 <p align="center">
