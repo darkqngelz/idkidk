@@ -27,7 +27,7 @@
   <img src="divid apples.png" width="500" alt="Gothic Potrait"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines="My.Soul+is.painted";like+butterfly+wingsr&color=CC785C&font=Fira+Code&size=24&width=600&height=100)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines="My.Soul+is.painted";"Like+butterfly+wings"&color=CC785C&font=Fira+Code&size=24&width=600&height=100)](https://git.io/typing-svg)
 
 
   
