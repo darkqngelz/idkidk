@@ -15,14 +15,16 @@
 <p align="center">
   <img src="textext.png" width="800" alt="Gothic Potrait"/>
   <p align="center">
-  <img src="1 divid.png" width="800" alt="Gothic Potrait"/>
-<p align="center">
+  
 textextext
 
   <img src="1 divid.png" width="800" alt="Gothic Potrait"/>
 <p align="center">
   
   <img src="crown.webp" width="300" alt="Gothic Potrait"/>
+
+  <img src="1 divid.png" width="800" alt="Gothic Potrait"/>
+<p align="center">
   
  <p align="center">$\small\color{white}\text{ . qngely  . made for ponytown }$
 </p>
