@@ -26,7 +26,9 @@
  <p align="center">
   <img src="divid apples.png" width="500" alt="Gothic Potrait"/>
 </p>
-  
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Open+Source+Contributor&color=991E00size=24&width=600&font=Fira+Code)](https://git.io/typing-svg)
+
   
  <p align="center">
   <img src="crown.webp" width="300" alt="Gothic Potrait"/>
