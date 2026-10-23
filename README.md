@@ -31,7 +31,7 @@ textextext
 　<p align="center">$\small\color{white}\text{"   he/him   ! "}$𓈒
 　
 </p>
-  <p align="center">$\small\color{white}\text{"ৎ୭　busy unless its the weekend. $
+  <p align="center">$\small\color{white}\text{"ৎ୭　busy unless its the weekend.} $
 </p>
 
   <p align="center">$\small\color{white}\text{" friendly ! but please dont do anything in confusing or weird ways .  "}$𓈒 𓈒
