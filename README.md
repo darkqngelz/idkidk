@@ -17,10 +17,9 @@
   <p align="center">
   <img src="1 divid.png" width="800" alt="Gothic Potrait"/>
 <p align="center">
-  <img src="angel (4).png" width="900" alt="Gothic Potrait"/>
-<p align="center">
+textextext
   
-  <img src="crown.webp" width="500" alt="Gothic Potrait"/>
+  <img src="crown.webp" width="300" alt="Gothic Potrait"/>
   
  <p align="center">$\small\color{white}\text{ . qngely  . made for ponytown }$
 </p>
