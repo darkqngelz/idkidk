@@ -69,8 +69,7 @@ textextext
 <p align="center">$\small\color{white}\text{"I'm mostly busy so I probably won't be seen much anymore. ! "}$
 </p>
 
-<p align="center">
-  <img src="shield.webp" width="400" alt="Gothic Potrait"/>
+
 </p>
 <p align="center">
   <img src="frame 2.png" width="900" alt="Gothic Potrait"/>
