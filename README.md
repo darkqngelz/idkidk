@@ -1,12 +1,12 @@
 
 <p align="center">
-  <img src="frame idk.png" width="900" alt="Gothic Potrait"/>
+  <img src="bow.png" width="900" alt="Gothic Potrait"/>
 
 
   
 
 <p align="center">
-  <img src="camera.png" width="800" alt="Gothic Potrait"/>
+  <img src="camera..png" width="800" alt="Gothic Potrait"/>
 </p>
 
 <p align="center">
